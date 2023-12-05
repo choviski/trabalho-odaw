@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/choviski/trabalho-odaw/assets/52714358/620c24cf-496a-4dd0-b820-1680076967a3" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/choviski/trabalho-odaw/assets/52714358/cb845994-f05d-4649-b69f-61a559243c5a" width="400" alt="Laravel Logo"></a></p>
 
 ## UDESCussão
 
